@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(143, 32, 32);
+    color: white;
+    font-size: 20px;
+}
+.table {
+    border: 4px rgb(255, 255, 255) solid;
+    padding: 6px;
+    margin: 4px;
+}
+
